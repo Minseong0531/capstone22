@@ -23,11 +23,9 @@
 2. 홈페이지 세부페이지를 나눌 자료조사와 레시피 조사
 3. 간단한 로고 제작 [방쿡]
 
-<h2> 3. 작품진행 </h3>
 
-![xd1](https://user-images.githubusercontent.com/79886686/160339615-218612f3-c1bc-407e-8eea-a753ea4bafdd.png)
-![xd2](https://user-images.githubusercontent.com/79886686/160339618-063f8e5d-ce29-4aa3-b4a9-6b65abd60bf5.png)
-![xd3](https://user-images.githubusercontent.com/79886686/160339619-f780dc64-933b-4bc7-bcf2-abdd5ced2d38.png)
+
+![웹 1920 – 1](https://user-images.githubusercontent.com/79886686/160339840-afb8f6ee-4582-4c1d-9eac-b9916b6fbfcb.png)
 
 
 
