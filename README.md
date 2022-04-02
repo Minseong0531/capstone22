@@ -21,6 +21,7 @@
 3. 로고제작
 
 ## 1.홈페이지 디자인 제작을 위한 배경 이미지
+![페이지 11](https://user-images.githubusercontent.com/79886686/161391028-4dd34312-82dc-4896-bfac-fb4bb59b9247.png)
 
 
 ## 2022-03-23
