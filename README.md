@@ -27,14 +27,14 @@
 
 
 # 결과물
-1. 백그라운드 배너-1
+1. 백그라운드 배너-1   
 ![페이지 1 완성](https://user-images.githubusercontent.com/79886686/162443357-f8366179-2a2a-403d-97fe-7aa55d4a3a44.png)
 
-2. 백그라운드 배너-2
+2. 백그라운드 배너-2   
 ![페이지 2 완성](https://user-images.githubusercontent.com/79886686/162443349-dde5fe4b-f4a8-4269-bf80-9836f4a83250.png)
 
-3. 배너 반응형 적용-1
-![마우스 호버 예시](https://user-images.githubusercontent.com/79886686/162443351-f90be25c-03f7-4da3-81aa-23083809176b.png)
+3. 배너 반응형 적용-1   
+![마우스 호버 예시](https://user-images.githubusercontent.com/79886686/162443351-f90be25c-03f7-4da3-81aa-23083809176b.png)   
 왼쪽이 마우스 호버시 화면 / 오른쪽은 기본 상태
 
 
