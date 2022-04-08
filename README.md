@@ -13,6 +13,30 @@
 
 
 ---
+## 2022-04-06
+# ◇ 작품 제작 현황 - <6주차>
+>+ 주말까지 메인 디자인 완성이 목표
+
+# 누끼 모음
+![background-img](https://user-images.githubusercontent.com/79886686/162443282-47c33fdd-96f7-4205-a813-730cee7cd66b.png)
+![background-img2](https://user-images.githubusercontent.com/79886686/162443301-6e54793e-a3d4-49f8-bd9e-bef1889297d0.png)
+![noodle](https://user-images.githubusercontent.com/79886686/162443314-be1a0203-3738-460f-8d26-30717a610291.png)
+![페이지 1](https://user-images.githubusercontent.com/79886686/162443338-935bf7fe-3af5-48d9-91aa-bc6f27d4f5d7.png)
+
+
+
+
+# 결과물
+1. 백그라운드 배너-1
+![페이지 1 완성](https://user-images.githubusercontent.com/79886686/162443357-f8366179-2a2a-403d-97fe-7aa55d4a3a44.png)
+
+2. 백그라운드 배너-2
+![페이지 2 완성](https://user-images.githubusercontent.com/79886686/162443349-dde5fe4b-f4a8-4269-bf80-9836f4a83250.png)
+
+3. 배너 반응형 적용-1
+![마우스 호버 예시](https://user-images.githubusercontent.com/79886686/162443351-f90be25c-03f7-4da3-81aa-23083809176b.png)
+왼쪽이 마우스 호버시 화면 / 오른쪽은 기본 상태
+
 
 ## 2022-03-30
 # ◇ 작품 제작 현황 - <5주차>
@@ -20,8 +44,7 @@
 2. 홈페이지 세부 내용에 들어갈 자료조사
 3. 로고제작
 
-## 1.홈페이지 디자인 제작을 위한 배경 이미지
-![페이지 11](https://user-images.githubusercontent.com/79886686/161391028-4dd34312-82dc-4896-bfac-fb4bb59b9247.png)
+
 
 
 ## 2022-03-23
