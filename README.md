@@ -25,19 +25,19 @@
 >+ 주말까지 메인 디자인 완성이 목표
 
 1. 클릭 반응형 백그라운드 배너-1   
- 1-1![PAGE3](https://user-images.githubusercontent.com/79886686/163563643-0ece05c6-9683-465a-aef2-5d013805a919.png)   
+ 1-1!   [PAGE3](https://user-images.githubusercontent.com/79886686/163563643-0ece05c6-9683-465a-aef2-5d013805a919.png)    
  클릭하기 전 상태   
- 1-2![PAGE3_TOGGLE](https://user-images.githubusercontent.com/79886686/163563651-c8471fbd-0d85-4d18-9f74-6ab4d6fe26d9.png)   
- 클릭하면 바뀌는 상태   
+ 1-2!   [PAGE3_TOGGLE](https://user-images.githubusercontent.com/79886686/163563651-c8471fbd-0d85-4d18-9f74-6ab4d6fe26d9.png)    
+ 클릭하면 바뀌는 상태      
  
-2. 이벤트 배너 페이지   
- 2-1![PAGE4](https://user-images.githubusercontent.com/79886686/163563656-7c02ad7c-60e2-4202-8087-09a0ee77ccbd.png)
+2. 이벤트 배너 페이지      
+ 2-1   ![PAGE4](https://user-images.githubusercontent.com/79886686/163563656-7c02ad7c-60e2-4202-8087-09a0ee77ccbd.png)   
 
 3. 음식 소개 페이지   
- 3-1![PAGE5](https://user-images.githubusercontent.com/79886686/163563659-bd3e6570-7619-4fb7-af23-031ec4cbe87f.png)
+ 3-1   ![PAGE5](https://user-images.githubusercontent.com/79886686/163563659-bd3e6570-7619-4fb7-af23-031ec4cbe87f.png)   
     
-4. 미완성 디저트 음식 페이지
- 4-1![PAGE6_little](https://user-images.githubusercontent.com/79886686/163563662-0d3cbf1b-17ba-433c-b0ff-a582c73b5872.png)
+4. 미완성 디저트 음식 페이지   
+ 4-1   ![PAGE6_little](https://user-images.githubusercontent.com/79886686/163563662-0d3cbf1b-17ba-433c-b0ff-a582c73b5872.png)   
 
 
 
