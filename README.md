@@ -13,16 +13,31 @@
 
 
 ---
+## 2022-04-13
+# ◇ 작품 제작 현황 - <7주차>
+
+>+ 메인 페이지 디자인 완성
+>+ 레시피 소개하는 추가 이미지와 이벤트 배너 마무리가 이번주 목표
+
+
 ## 2022-04-06
 # ◇ 작품 제작 현황 - <6주차>
 >+ 주말까지 메인 디자인 완성이 목표
 
-# 누끼 모음
-![background-img](https://user-images.githubusercontent.com/79886686/162443282-47c33fdd-96f7-4205-a813-730cee7cd66b.png)
-![background-img2](https://user-images.githubusercontent.com/79886686/162443301-6e54793e-a3d4-49f8-bd9e-bef1889297d0.png)
-![noodle](https://user-images.githubusercontent.com/79886686/162443314-be1a0203-3738-460f-8d26-30717a610291.png)
-![페이지 1](https://user-images.githubusercontent.com/79886686/162443338-935bf7fe-3af5-48d9-91aa-bc6f27d4f5d7.png)
+1. 클릭 반응형 백그라운드 배너-1   
+ 1-1![PAGE3](https://user-images.githubusercontent.com/79886686/163563643-0ece05c6-9683-465a-aef2-5d013805a919.png)   
+ 클릭하기 전 상태   
+ 1-2![PAGE3_TOGGLE](https://user-images.githubusercontent.com/79886686/163563651-c8471fbd-0d85-4d18-9f74-6ab4d6fe26d9.png)   
+ 클릭하면 바뀌는 상태   
+ 
+2. 이벤트 배너 페이지   
+ 2-1![PAGE4](https://user-images.githubusercontent.com/79886686/163563656-7c02ad7c-60e2-4202-8087-09a0ee77ccbd.png)
 
+3. 음식 소개 페이지   
+ 3-1![PAGE5](https://user-images.githubusercontent.com/79886686/163563659-bd3e6570-7619-4fb7-af23-031ec4cbe87f.png)
+    
+4. 미완성 디저트 음식 페이지
+ 4-1![PAGE6_little](https://user-images.githubusercontent.com/79886686/163563662-0d3cbf1b-17ba-433c-b0ff-a582c73b5872.png)
 
 
 
