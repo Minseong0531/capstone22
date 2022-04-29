@@ -14,12 +14,38 @@
 ## 2022-04-27
 # ◇ 작품 제작 현황 - <9주차>
 >+ 메인 페이지 전면 수정하기로 결정.
+>+ 소개 문구와 구성요소는 팀원(유호철)
+
+# 결과물
+<details>
+<summary>9주차 디자인 접기/펼치기</summary>
+<div markdown="1">
 
 1. GNB 배너 
 ![9주차 1](https://user-images.githubusercontent.com/79886686/165961679-454ce6c6-ea05-473e-a19e-e3cd410d4a07.png)
 
 
-2. 
+2. 인트로 디자인 
+ ![9주차 2](https://user-images.githubusercontent.com/79886686/165961683-1e5e8f2d-dc91-43da-acc9-e21c84f56a01.png)
+ 
+3. 사이트 특징 디자인
+ ![9주차 3](https://user-images.githubusercontent.com/79886686/165961685-08bbd2e5-3b5b-4266-8935-b2bf11248085.png)
+
+4. (미정) 디자인
+ ![9주차 4](https://user-images.githubusercontent.com/79886686/165961688-e9c5c7a2-3c95-40c6-9ea7-8487ceea223b.png)
+
+5. (미정) 디자인2
+ ![9주차 5](https://user-images.githubusercontent.com/79886686/165961690-c2658189-3b05-4fbe-91d8-1ff3cd668ffe.png)
+
+6. 레시피 소개 디자인
+ ![9주차 6](https://user-images.githubusercontent.com/79886686/165961693-75cb67e5-d054-492c-92a5-9663fab6526f.png)
+
+
+
+
+ </div>
+</details>
+
 
 ---
 ## 2022-04-13
