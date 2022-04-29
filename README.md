@@ -28,8 +28,10 @@
 >+ 메인 페이지 디자인 완성
 >+ 레시피 소개하는 추가 이미지와 이벤트 배너 마무리가 이번주 목표
 
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
 
-<summary>토글 접기/펼치기
 1. 클릭 반응형 백그라운드 배너-1   
  1-1![PAGE3](https://user-images.githubusercontent.com/79886686/163563643-0ece05c6-9683-465a-aef2-5d013805a919.png)   
  클릭하기 전 상태   
@@ -46,7 +48,10 @@
 4. 미완성 디저트 음식 페이지   
  4-1   
  ![PAGE6_little](https://user-images.githubusercontent.com/79886686/163563662-0d3cbf1b-17ba-433c-b0ff-a582c73b5872.png)   
-</summary>
+
+ 
+ </div>
+</details>
 
 ## 2022-04-06
 # ◇ 작품 제작 현황 - <6주차>
