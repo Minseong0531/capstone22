@@ -29,7 +29,7 @@
 >+ 레시피 소개하는 추가 이미지와 이벤트 배너 마무리가 이번주 목표
 
 <details>
-<summary>토글 접기/펼치기</summary>
+<summary>디자인 접기/펼치기</summary>
 <div markdown="1">
 
 1. 클릭 반응형 백그라운드 배너-1   
@@ -59,6 +59,9 @@
 
 
 # 결과물
+<details>
+<summary>디자인 접기/펼치기</summary>
+<div markdown="1">
 1. 백그라운드 배너-1   
 ![페이지 1 완성](https://user-images.githubusercontent.com/79886686/162443357-f8366179-2a2a-403d-97fe-7aa55d4a3a44.png)
 
@@ -68,6 +71,9 @@
 3. 배너 반응형 적용-1   
 ![마우스 호버 예시](https://user-images.githubusercontent.com/79886686/162443351-f90be25c-03f7-4da3-81aa-23083809176b.png)   
 왼쪽이 마우스 호버시 화면 / 오른쪽은 기본 상태
+
+  </div>
+</details>
 
 
 ## 2022-03-30
