@@ -11,10 +11,51 @@
 
 ```
 ---
+## 2022-05-04
+# ◇ 작품 제작 현황 - <10주차>
+>+ 메인 페이지 디자인 레퍼런스 마무리
+>+ ABOUT US 페이지 링크 연동 및 구성요소 디자인 마무리
+
+# 결과물
+<details>
+<summary>10주차 디자인 접기/펼치기</summary>
+<div markdown="1">
+
+0. 메인 - 이벤트 디자인   
+ ![이벤트1](https://user-images.githubusercontent.com/79886686/167146776-ae0be708-57f0-4a24-8730-511dd853fb58.png)
+ 
+1. 메인 - 하단부분 디자인   
+![메인 - 하단부](https://user-images.githubusercontent.com/79886686/167146741-fb1ec26b-2ac9-4206-afa1-e7a634d75531.png) 
+
+2. ABOUT US - 사이트 소개 1번   
+ ![소개1](https://user-images.githubusercontent.com/79886686/167146759-3d75ec0d-f2d3-4a12-a0e3-569ad7ff6084.png)
+ 
+3. ABOUT US - 사이트 소개 2번   
+ ![소개2](https://user-images.githubusercontent.com/79886686/167146764-d6c372ea-c30e-4d30-a267-645827d151b9.png)
+
+4. ABOUT US - 사이트 소개 3번   
+ ![소개3](https://user-images.githubusercontent.com/79886686/167146770-e1cca8a7-196a-414a-a6cb-25d5d5a8b86a.png)
+
+5. ABOUT US - 사이트 이력   
+ ![신스](https://user-images.githubusercontent.com/79886686/167146774-949030c7-07a0-4a5e-938e-7777e276f113.png)
+
+6. ABOUT US - 참여 인원
+ ![인원](https://user-images.githubusercontent.com/79886686/167146779-d3cb757a-ffad-478b-b059-14f40afc8b25.png)
+ 
+7. 공용 - 푸터 디자인   
+ ![푸터](https://user-images.githubusercontent.com/79886686/167146784-93a6057a-aeca-42af-ad18-208aa27af854.png)
+
+ 
+  </div>
+</details>
+
+---
+ 
+
 ## 2022-04-27
 # ◇ 작품 제작 현황 - <9주차>
 >+ 메인 페이지 전면 수정하기로 결정.
->+ 소개 문구와 구성요소는 팀원(유호철)
+>+ 소개 문구와 구성요소는 팀원에게 맡김
 
 # 결과물
 <details>
