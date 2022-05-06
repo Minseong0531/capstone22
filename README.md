@@ -39,7 +39,7 @@
 5. ABOUT US - 사이트 이력   
  ![신스](https://user-images.githubusercontent.com/79886686/167146774-949030c7-07a0-4a5e-938e-7777e276f113.png)
 
-6. ABOUT US - 참여 인원
+6. ABOUT US - 참여 인원   
  ![인원](https://user-images.githubusercontent.com/79886686/167146779-d3cb757a-ffad-478b-b059-14f40afc8b25.png)
  
 7. 공용 - 푸터 디자인   
