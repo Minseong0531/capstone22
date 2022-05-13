@@ -11,6 +11,31 @@
 제공 할 수 있는 사이트를 제작 하자는 의견으로 주제 결정
 
 ```
+## 2022-05-11
+# ◇ 작품 제작 현황 - <11주차>
+>+ ABOUT US 페이지 구성 추가 및 디자인 수정
+>+ 워크시트 작성후 12주차에 제출 예정
+>+ 구성요소 및 무료 이미지 파일 추가
+<details>
+<summary>11주차 디자인 접기/펼치기</summary>
+<div markdown="1">
+
+ 1. ABOUT US 인트로 페이지 수정   
+![ABOUT US - STORY](https://user-images.githubusercontent.com/79886686/168285428-0bd42be3-f391-4933-90c7-ccd585c4b656.png)
+    
+ 2. ABOUT US  인트로 페이지2 수정   
+![ABOUT US 디자인 수정 1](https://user-images.githubusercontent.com/79886686/168285435-c4211b82-1ed1-43b0-8843-97e4af9c911f.png)
+ 
+ 3.ABOUT US SINCE 페이지 수정   
+ 
+![ABOUT US 디자인 수정 2](https://user-images.githubusercontent.com/79886686/168285442-29e2f767-a145-4316-baf6-0d62f5f8e095.png)
+ 
+ 4.ABOUT US 중간 디자인 베너   
+![BANNER](https://user-images.githubusercontent.com/79886686/168285446-5e3e7427-088d-47e1-84b8-a28a9fc6be54.png)
+
+   </div>
+</details>
+
 ---
 ## 2022-05-04
 # ◇ 작품 제작 현황 - <10주차>
