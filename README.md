@@ -21,14 +21,14 @@
 <div markdown="1">
 
  1. ABOUT US 인트로 페이지 수정   
-![ABOUT US - STORY](https://user-images.githubusercontent.com/79886686/168285428-0bd42be3-f391-4933-90c7-ccd585c4b656.png)
+ 
+![ABOUT US 디자인 수정 2](https://user-images.githubusercontent.com/79886686/168285442-29e2f767-a145-4316-baf6-0d62f5f8e095.png)
     
  2. ABOUT US  인트로 페이지2 수정   
 ![ABOUT US 디자인 수정 1](https://user-images.githubusercontent.com/79886686/168285435-c4211b82-1ed1-43b0-8843-97e4af9c911f.png)
  
  3.ABOUT US SINCE 페이지 수정   
- 
-![ABOUT US 디자인 수정 2](https://user-images.githubusercontent.com/79886686/168285442-29e2f767-a145-4316-baf6-0d62f5f8e095.png)
+![ABOUT US - STORY](https://user-images.githubusercontent.com/79886686/168285428-0bd42be3-f391-4933-90c7-ccd585c4b656.png)
  
  4.ABOUT US 중간 디자인 베너   
 ![BANNER](https://user-images.githubusercontent.com/79886686/168285446-5e3e7427-088d-47e1-84b8-a28a9fc6be54.png)
