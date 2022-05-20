@@ -13,6 +13,36 @@
 ```
 ## 2022-05-11
 # ◇ 작품 제작 현황 - <11주차>
+>+ 메인페이지 배너 제작
+>+ XD 기능 공부하여 동영상 삽입 방법 찾기
+>+ 레시피 제공 화면 틀 잡기
+<details>
+<summary>12주차 디자인 접기/펼치기</summary>
+<div markdown="1">
+ 
+ 1. 메인 페이지 배너 영상 추가   
+ ![메인 페이지 배너 영상](https://user-images.githubusercontent.com/79886686/169521688-03d1131b-fdd5-40eb-bf1b-718efbdd9bbc.png)
+ 
+ 2. 한식 토글형 메뉴 추가   
+![한식 토글1](https://user-images.githubusercontent.com/79886686/169521699-c4670a80-2de8-4a0f-a704-28c88164b3b4.png)   
+![한식 토글반응](https://user-images.githubusercontent.com/79886686/169521706-bf822922-a638-4ff5-aad0-4ba45ed3d949.png)
+
+ 3. 한식 레시피    
+ ![한식 메뉴](https://user-images.githubusercontent.com/79886686/169521698-b805ebf6-1da5-457f-9e28-9690c40ed2d1.png)
+ 
+ 4. 양식 토글형 메뉴 추가   
+ ![양식 토글](https://user-images.githubusercontent.com/79886686/169521691-cc8ebc17-8505-4dde-b013-33c0c92cb1d5.png)
+![양식 토글반응](https://user-images.githubusercontent.com/79886686/169521693-ff51c71c-ec41-4c04-afd2-21a3c609cd4f.png)
+ 
+ 5.ABOUT US 디테일 추가   
+ ![화면 캡처 2022-05-20 204001](https://user-images.githubusercontent.com/79886686/169521711-adebbd28-9516-4c0a-8df6-b66efbc83a7a.png)
+ 
+    </div>
+</details>
+ 
+---
+## 2022-05-11
+# ◇ 작품 제작 현황 - <11주차>
 >+ ABOUT US 페이지 구성 추가 및 디자인 수정
 >+ 워크시트 작성후 12주차에 제출 예정
 >+ 구성요소 및 무료 이미지 파일 추가
