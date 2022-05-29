@@ -13,6 +13,33 @@
 ```
 ## 2022-05-11
 # ◇ 작품 제작 현황 - <11주차>
+>+ 레시피 페이지 제작 완료
+>+ XD 기능 공부
+>+ 레시피 자료조사 및 디자인
+<details>
+<summary>12주차 디자인 접기/펼치기</summary>
+<div markdown="1">
+
+ 1. 중식 디자인   
+ ![중식](https://user-images.githubusercontent.com/79886686/170860130-04411aaf-7c70-4812-90ce-c283c1599406.png)   
+ 
+ 2. 중식 디자인2   
+ ![중식2](https://user-images.githubusercontent.com/79886686/170860133-bb0fdfeb-c661-46d6-9a53-cd1ab4434e7f.png)   
+ 
+ 3. 디저트 디자인   
+ ![디저트](https://user-images.githubusercontent.com/79886686/170860124-c9517493-2380-4e20-bfed-8890d38ef4d0.png)
+ 
+ 4. 레시피 상세   
+ ![레시피 상세](https://user-images.githubusercontent.com/79886686/170860127-c31fd91d-3a6e-4e51-afe3-55d26c6810fc.png)   
+ 
+ 5. 레시피 재료    
+ ![재료준비](https://user-images.githubusercontent.com/79886686/170860129-a88dd289-c447-4985-89c1-9edee3f1af3c.png)   
+ 
+</div>
+</details>
+
+## 2022-05-11
+# ◇ 작품 제작 현황 - <11주차>
 >+ 메인페이지 배너 제작
 >+ XD 기능 공부하여 동영상 삽입 방법 찾기
 >+ 레시피 제공 화면 틀 잡기
